@@ -1,0 +1,1 @@
+Aplicación de consola hecha con Node, para consultar el clima de lugares, utilizando el api de Mapbox y OpenWeather
